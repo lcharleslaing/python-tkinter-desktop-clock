@@ -1,0 +1,5 @@
+.vscode
+build
+./dist\Lee's PC Clock.lnk
+mypcclock.egg-info
+venv
